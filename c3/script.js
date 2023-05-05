@@ -160,3 +160,5 @@ if (percentage <= 20) {
 // Turn string into integer
 let numb = "1";
 parseInt(numb);
+
+// Git change
